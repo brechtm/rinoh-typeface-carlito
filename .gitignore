@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+*~
+/venv
+/build
+/dist
+/rinoh_typeface_carlito.egg-info
